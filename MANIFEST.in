@@ -1,3 +1,0 @@
-recursive-include aletheia-models/ *
-recursive-include aletheia-resources/ *
-recursive-include aletheia-cache/ *
